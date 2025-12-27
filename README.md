@@ -24,3 +24,4 @@ https://raw.githubusercontent.com/MrKaizen7/meshes/main/hammer.glb
 https://raw.githubusercontent.com/MrKaizen7/meshes/main/hammer_rgb.glb
 https://raw.githubusercontent.com/MrKaizen7/meshes/main/one_piece_nico_robin.glb
 https://raw.githubusercontent.com/MrKaizen7/meshes/main/village.glb
+https://raw.githubusercontent.com/MrKaizen7/meshes/main/yutuu.png
